@@ -1,0 +1,183 @@
+#player1{
+    margin-left: 900px;  
+     width: 300px;
+     position: absolute;
+     padding-top: 200px;
+    
+ }   
+         
+ #player2{
+    margin-left: 900px;  
+     width: 300px;
+     position: absolute;
+     padding-top: 355px;
+    
+ }        
+ 
+ #player3{
+    margin-left: 900px;  
+     width: 300px;
+     position: absolute;
+     padding-top: 510px;
+    
+ }
+ 
+ #player4{
+    margin-left: 900px;  
+     width: 300px;
+     position: absolute;
+     padding-top: 670px;
+    
+ }
+ 
+ #player5{
+    margin-left: 900px;  
+     width: 300px;
+     position: absolute;
+     padding-top: 840px;
+    
+ }
+ 
+ .wallpaper{
+     width: 500px;
+ }
+ 
+ body{
+ 
+     margin: 0px;
+     padding:none;
+ }
+ 
+ img{
+     position:absolute;
+     width: 1500px;
+     ;
+ }
+ 
+ h1{
+     position: absolute;
+     margin-left:850px; 
+     background-color: antiquewhite;
+     font-size: 50px;
+     background-size: 100px;
+     color: palevioletred;
+ }
+ 
+ img{
+     width: 1920px;
+     height: 969px;
+ }
+ 
+ .boxed {
+     border: 2px solid salmon;
+     width:600px;
+     height: 100px;
+     position: absolute;
+     margin-left: 640px;
+     margin-top: 180px;
+     background-color: pink;
+     
+ }
+ 
+ .name1{
+ position: absolute;
+ font-size: 25px;
+ margin-left: 700px;
+ margin-top: 200px;
+ text-align: center;
+ 
+ }
+ 
+ .boxed1 {
+     border: 2px solid salmon;
+     width:600px;
+     height: 100px;
+     position: absolute;
+     margin-left: 640px;
+     margin-top: 330px;
+     background-color: pink;
+     
+ }
+ 
+ .name2{
+ position: absolute;
+ font-size: 25px;
+ margin-left: 700px;
+ margin-top: 365px;
+ text-align: center;
+ 
+ }
+ 
+ .boxed2 {
+     border: 2px solid salmon;
+     width:600px;
+     height: 100px;
+     position: absolute;
+     margin-left: 640px;
+     margin-top: 485px;
+     background-color: pink;
+     
+ }
+ 
+ .name3{
+ position: absolute;
+ font-size: 25px;
+ margin-left: 700px;
+ margin-top: 510px;
+ text-align: center;
+ z-index: 5;
+ 
+ }
+ 
+ .boxed3 {
+     border: 2px solid salmon;
+     width:600px;
+     height: 100px;
+     position: absolute;
+     margin-left: 640px;
+     margin-top: 645px;
+     background-color: pink;
+     
+ }
+ 
+ .name4{
+ position: absolute;
+ font-size: 25px;
+ margin-left: 720px;
+ margin-top: 670px;
+ text-align: center;
+ z-index: 5;
+ 
+ }
+ 
+ .boxed4 {
+     border: 2px solid salmon;
+     width:600px;
+     height: 100px;
+     position: absolute;
+     margin-left: 640px;
+     margin-top: 815px;
+     background-color: pink;
+     
+ }
+ 
+ .name5{
+ position: absolute;
+ font-size: 25px;
+ margin-left: 700px;
+ margin-top: 840px;
+ text-align: center;
+ z-index: 5;
+ 
+ }
+
+.boxedakhir{
+    border: 2px solid salmon;
+    width:600px;
+    height: 80px;
+    position: absolute;
+    margin-left: 640px;
+    margin-top: 25px;
+    background-color: antiquewhite;
+    
+}
